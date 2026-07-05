@@ -1,0 +1,7 @@
+Optional: drop a video file named exactly
+
+    proposal.mp4
+
+into this folder (public/) and it will automatically appear on the
+celebration screen after she says YES. If the file is missing, the
+experience skips it gracefully — nothing breaks.
