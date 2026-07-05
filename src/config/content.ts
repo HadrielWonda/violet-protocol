@@ -48,7 +48,7 @@ export const content = {
     placeholder: 'enter decryption key',
     hints: [
       'Hint: it was never really violet. Look at the colour that was quietly yours all along.',
-      'Hint: six letters. The one shade in this whole system that belongs to you.',
+      'Hint: five letters. The one shade in this whole system that belongs to you.',
       'Hint: L _ L _ C — your colour.',
     ],
     successHint: 'Almost. The system recognises you.',
