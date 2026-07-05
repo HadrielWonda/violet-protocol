@@ -97,7 +97,7 @@ export const debugQuestions: DebugQuestion[] = [
   {
     bug: 'RecurringValueWarning',
     prompt: 'One answer keeps appearing in every level. Who is it?',
-    accepts: ['you'],
+    accepts: ['you','me','ore','Ore','Oreoluwa'],
     patch: 'recurringValue = "you" ✓',
   },
   {
